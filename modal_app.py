@@ -7,6 +7,7 @@ image = (
 )
 
 @app.function(image=image, secrets=[modal.Secret.from_name("supabase-secrets")], min_containers=1)
+@modal.web_server(8000)
 def run_streamlit():
     import subprocess
     subprocess.run([
