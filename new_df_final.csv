@@ -1,0 +1,9 @@
+,id,name,team,racestarts,wins,podiums,pole_position,fastest,best_result,best_grid,dnf,avg_finish,avg_grid,races_led,points_finishes,points,championship_standings
+0,1,Oscar Piastri,McLaren Formula 1 Team,17,1,5,0,0,2,2,5,4.06,3.35,6,10,165,4th
+1,2,Lando Norris,McLaren Formula 1 Team,17,0,6,0,1,2,2,4,3.6,3.12,5,10,121,5th
+2,3,Max Verstappen,Oracle Red Bull Racing,17,14,16,11,8,1,1,0,2.38,2.53,15,17,324,1st
+3,4,George Russell,Mercedes-AMG Petronas Formula One Team,17,0,2,0,0,3,3,2,6.6,5.2,4,13,78,6th
+4,5,Charles Leclerc,Scuderia Ferrari HP,17,0,1,0,0,4,4,3,8.8,5.35,3,12,70,7th
+5,6,Lewis Hamilton,Mercedes-AMG Petronas Formula One Team,17,0,4,0,0,3,3,2,5.35,4.59,6,15,212,2nd
+6,7,Andrea Kimi Anto,Atlassian Williams Racing,17,0,0,0,0,16,16,5,15.76,15.5,0,0,0,20th
+7,8,Alexander Albon,Atlassian Williams Racing,17,0,0,0,0,10,10,3,13.44,12.93,1,6,37,9th
